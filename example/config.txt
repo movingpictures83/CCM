@@ -1,0 +1,2 @@
+Prefix plugins/CCM/example/
+Plugin CCM inputfile chicken_egg.csv outputfile chicken_egg.ccm.csv
