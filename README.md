@@ -2,7 +2,8 @@
 # Language: R
 # Input: CSV (time-series abundances)
 # Output: CSV (causality statistics)
-# Tested with: PluMA 1.0, R 3.2.5
+# Tested with: PluMA 1.1, R 4.0.0
+# Dependency: rEDM_1.2.3
 
 PluMA plugin that runs the Convergent Cross Mapping algorithm (CCM, Sugihara et al 2012)
 for detecting causality in complex ecosystems.
